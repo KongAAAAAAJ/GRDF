@@ -1,4 +1,4 @@
-# GRDF
+# GRDF: A Platoon Reorganization Decision-making Framework
 Towards Emergency Scenarios: An Integrated Decision-making Framework of Multi-lane Platoon Reorganization
 
 Case 1: Lateral Driving Risk
